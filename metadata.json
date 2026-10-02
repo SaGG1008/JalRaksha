@@ -1,0 +1,6 @@
+{
+  "name": "JalRakshak — IoT Underground Water Management & Groundwater Intelligence",
+  "description": "Real-time groundwater intelligence, IoT borewell telemetry, aquifer health diagnostics, extraction analytics, and recharge decision support for Techfest InnovateX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
